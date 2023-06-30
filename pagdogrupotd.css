@@ -1,0 +1,56 @@
+ .catalogo{
+ height: 98vh;
+ background-color: rgb(255, 255, 255);
+ color: aliceblue;
+ }
+ .icone{
+    height: 30px;
+ }
+ .Logo{
+    height: 70px;
+ }
+ .Menu{
+    background-color: rgb(111, 38, 181);
+    display: flex;
+    height: 80px;
+    align-items: center;
+ }
+ .principal{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    padding-left: 40px;
+    justify-content:space-around;
+ }
+ .Lista{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: rgb(0, 0, 0);
+ }
+ a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+ }
+
+ h1{
+font-size: 60px;
+padding: 0%;
+color: black;
+ }
+h2{
+    font-size: 40px;
+ color: black;
+}
+.botao{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cta{
+height: 30px;
+width: 100px;
+background-color: rgb(111, 38, 181);
+border: none;
+}
